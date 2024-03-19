@@ -2,7 +2,7 @@
 
 ## Overview
 
-This firmware project is developed for the STM32F411CE microcontroller unit (MCU) using STM32CubeIDE. It facilitates the acquisition of accelerometer, gyroscope and temperature readings from the ICM-42688-P inertial measurement unit (IMU) and prints the data to a serial monitor.
+This firmware is developed for the STM32F411CE microcontroller unit (MCU) using STM32CubeIDE. It facilitates the acquisition of accelerometer, gyroscope and temperature readings from the ICM-42688-P inertial measurement unit (IMU) and prints the data to a serial monitor.
 
 ## Project Core Structure
 
